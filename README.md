@@ -50,3 +50,10 @@ With a thumbnail size of 512x512:
 - Matching a query image took two minutes.
 
 Results will vary. If indexer building and/or matching takes too long, consider decreasing the thumbnail size.
+
+
+## References
+- [OpenCV docs](https://docs.opencv.org/3.4/d5/d6f/tutorial_feature_flann_matcher.html)
+- [tutorialspoint: How to implement FLANN based feature matching in OpenCV Python?](https://www.tutorialspoint.com/how-to-implement-flann-based-feature-matching-in-opencv-python)
+- [Reddit: Use of a FLANN index to match a picture with a database](https://redd.it/jwkjnd)
+- [StackOverflow: Fast way to match a picture with a database](https://stackoverflow.com/q/29563429)
